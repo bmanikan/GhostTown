@@ -5,6 +5,7 @@ Implementation of GhostTown mode of Insta360 camera.
 Have you ever experienced a problem of lot of moving pedestrians when you are trying to take a picture of Monuments? This project is intended to solve that problem.
 
 Recently Insta360 OneX2 cam has released a feature called Ghost Town. which actually takes a video of less than a minute and extracts the background image by removing the moving objects from each frame. The background image is called ground-truth image of that video. 
+<img src="https://github.com/bmanikan/GhostTown/blob/main/Ghosttown.gif" />
 
 The fundemental concept behind the feature is a Unsupervised Machine learning technique based upon Mathematics.
 
@@ -16,3 +17,6 @@ To reproduce the results, Run main.py which requires two arguments,
 "--input" The input video file name
 
 "--output" The backgroung image name to be created 
+
+Results,
+
