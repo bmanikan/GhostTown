@@ -12,5 +12,7 @@ In this project, I tried to replicate the same feature as extracting information
 
 The code for teh concept is in util.py file. 
 To reproduce the results, Run main.py which requires two arguments,
+
 "--input" The input video file name
+
 "--output" The backgroung image name to be created 
