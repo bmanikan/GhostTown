@@ -23,6 +23,8 @@ My results,
 
 <img src="https://github.com/bmanikan/GhostTown/blob/main/pedestrian%20crossing.gif"  />
 
+Output Gray-scale image:
+
 <img src='https://github.com/bmanikan/GhostTown/blob/main/Output.png' width="300" height="200" />
 
 
